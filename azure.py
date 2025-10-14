@@ -18,7 +18,6 @@ def http_trigger1(req: func.HttpRequest) -> func.HttpResponse:
         name = name or req_body.get('name')
         hba1c = hba1c or req_body.get('hba1c')
 
-    # Presence and type check
     if not name or hba1c is None:
         return func.HttpResponse(
             "Please provide 'name' and 'hba1c' in the query string or request body.",
