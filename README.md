@@ -12,18 +12,18 @@ Loom: [Recording](https://www.loom.com/share/18eaf555b5c84b319d0c404131071cc8?si
 Google Cloud: europe-west1 <br>
 Public URL: https://python504-1055518417430.europe-west1.run.app
 
-Normal
-![normal](image-1.png)
-Abnormal
-![abnormal](image.png)
+Normal <br>
+![normal](image-1.png)<br>
+Abnormal<br>
+![abnormal](image.png)<br>
 
 Microsoft Azure: westus3 <br>
 Public URL:https://assignment-3-b2ejhhajbagagpa9.westus3-01.azurewebsites.net/api/http_trigger1?code=fzOe4wPAAy3kKuMeDhTol-9c8UvZnUZZ5gA9D8hBiUdLAzFuxxI6Ig==
 
-Abnormal
-![abnormal](image-3.png)
-Normal
-![normal](image-2.png)
+Abnormal<br>
+![abnormal](image-3.png) <br>
+Normal<br>
+![normal](image-2.png)<br>
 
 Comparison <br>
 After using both cloud I enjoyed the simplicity of GCP. It is more flexible and straightforward making it easy to use for beginner. Azure on the other hand feels more powerful. You can see this from their complex security and compliances. One thing I really like about azure is its "test" feature. You can test the python code without going to notebook to see it function something I found to be really helpful. Azure also load and save code faster than that of GCP. Nonetheless, both cloud have its pros and cons, but at the end of the day, get the work done. 
